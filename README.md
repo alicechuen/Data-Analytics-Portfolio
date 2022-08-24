@@ -1,2 +1,2 @@
 # Data-Analytics-Portfolio
-Portfolio of data science and data analysis projects. all of projects are completed by me for academic, self learning, and hobby purpose.
+This repository is a portfolio of my own data science and data analyst projects for academic, self learning, and hobby purposes. Presented in the form of iPython Notebooks.
