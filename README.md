@@ -12,4 +12,4 @@ This is the case study from Google Data Analytics Certificate. The inspirations 
 
   - [Quality Prediction by using XGBoost](https://github.com/alicechuen/Data-Analytics-Portfolio/blob/main/stretch-percent-prediction.ipynb)
 
-Base on the automatica data collect ed by extruder line and testing data from technicians, using models to predict the future quality data.
+Base on the automatica data collected by extruder line and testing data from technicians, using models to predict the future quality data.
